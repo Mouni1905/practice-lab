@@ -1,5 +1,5 @@
 {
-  "name": "ci-cd-simple-lab",
+  "name": "ci-cd-terminal-lab",
   "version": "1.0.0",
   "scripts": {
     "start": "node app.js",
